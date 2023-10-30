@@ -9,5 +9,6 @@
     "Website": "https://github.com/Javaro3/Translator-flow-launcher",
     "IcoPath": "https://cdn.jsdelivr.net/gh/Javaro3/Translator-flow-launcher/Images/app.png",
     "UrlDownload": "https://github.com/Javaro3/Translator-flow-launcher/archive/refs/heads/main.zip",
+    "UrlSourceCode": "https://github.com/Javaro3/Translator-flow-launcher",
     "ExecuteFileName": "run.py"
 }
