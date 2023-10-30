@@ -1,0 +1,12 @@
+{
+    "ID": "220972ee-7414-11ee-b962-0242ac120002",
+    "ActionKeyword": "tr",
+    "Name": "Multiple Translator",
+    "Description": "A translator who allows you to get multiple translations for words (use Reverso translator)",
+    "Author": "javaro3",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Javaro3/Translator-flow-launcher",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "run.py"
+}
